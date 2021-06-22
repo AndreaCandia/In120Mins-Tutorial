@@ -1,5 +1,5 @@
 <<<<<<< HEAD
 # In120Mins-Tutorial
 =======
-# In120Mins-Tutorial
->>>>>>> 2fec825bf33417928b2c85cfb875a1be8b6f1677
+I realized a simple Spring-Boot application following this tutorial https://www.youtube.com/watch?v=0Q3R2-z3usI&ab_channel=in120Minsin120Mins
+
